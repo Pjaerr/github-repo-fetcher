@@ -1,0 +1,18 @@
+{
+  "name": "github-repo-fetcher",
+  "version": "1.0.0",
+  "description": "Fetch a list of repositories and all their files, unpacking them to a defined output directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^18.12.0",
+    "node-fetch": "^3.1.0",
+    "tar": "^6.1.11"
+  },
+  "type": "module"
+}

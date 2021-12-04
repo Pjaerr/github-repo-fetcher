@@ -1,0 +1,14 @@
+{
+  "owner": "pjaerr",
+  "repositories": [
+    {
+      "name": "Svelte-Data-Vis-Premier-League",
+      "branch": "gh-pages"
+    },
+    {
+      "name": "Pub-Name-Generator",
+      "branch": "master"
+    }
+  ],
+  "outputDir": "dist"
+}
